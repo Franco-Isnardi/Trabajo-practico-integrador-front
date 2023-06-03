@@ -78,3 +78,32 @@ html{
 .texto-footer:hover{
     cursor: pointer;
 }
+
+.total-bg{
+  background-color: #cce5ff; 
+  border-radius: 8px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #b8daff;
+}
+
+.formulario{
+  background-color: white;
+}
+
+
+.error {
+  background-color: rgb(185, 0, 0);
+  text-align: center;
+  padding: 1rem;
+  color: white;
+  text-transform: uppercase;
+}
+.correcto {
+  background-color: rgb(74, 185, 0);
+  text-align: center;
+  padding: 1rem;
+  color: white;
+  text-transform: uppercase;
+}
+
